@@ -13,10 +13,8 @@ my macro ex for adding a param for each element in a json
 **** IdeaVIM has 10M downloads
 *** Modal editing, thats the shit
 ** This is Vim
-*** Movments
-*** Grammer
+*** <<< Markdown file >>>
 *** The cool stuff
-**** ci" cst cip
 **** gd gu gU <ip
 **** =ip to format paragraph
 **** Fast paced workflow to show off
