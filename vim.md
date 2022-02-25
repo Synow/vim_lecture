@@ -41,11 +41,14 @@ Yank the three words and paste below -
 
     Sivan loves Vim
 
-
 # Paste / Undo
+
+    Paste to here - 
 
 # Inner Around Surround
 
+
+1. Enum name should be lower-case, Enum vals should be upper-case
 
 ```python
 
@@ -59,13 +62,26 @@ Yank the three words and paste below -
         print(`A very complex sting ${ var1 * [var2] } 'single quotes' "double quotes also"`)
     }
 
-// tags <> 
+// Tags 
+
 <html>
-    <h1>Header One</h1>
-    <h2>Header One</h2>
+    <head>
+        <script></script>
+    </head>
+    <body>
+        <h1>Header One</h1>
+        <h2>Header One</h2>
+    </body>
 </html>
+
 ```
 
 # Intentation
 
-# Riddles
+# Riddles (?)
+
+1. Delete the 5 words -
+
+    One Two Three Four Five Six
+
+2. 
