@@ -1,46 +1,42 @@
-vim riddles
-yi' to seach log file (log error inside the ')
-my macro ex for adding a param for each element in a json
-* Vim! 
-** This lecture can change the way you use a pc 
-** Vim
-*** Vi a simple text editor
-**** Once upon a time, <old pc photo>, they had to have mods
-*** People still actually use it
-**** Photo of advance vim devenv
-**** Vim reddit vs spotify reddit
-**** VSCode Vim
-**** IdeaVIM has 10M downloads
-*** Modal editing, thats the shit
-** This is Vim
-*** <<< Markdown file >>>
-*** The cool stuff
-**** gd gu gU <ip
-**** =ip to format paragraph
-**** Fast paced workflow to show off
-***** surrund with '
-***** zz-ing!!! /func_name zt
-**** jk in vscode explorer panel
-*** Extra ?
-**** Marks? Registers? Macros?
-** Ok but why? 
-*** no, its not about speed, its focusing on the important stuff
-**** From mind to code, let Vim do the typing
-*** Vim everywhere
-**** Vimium
-***** Google search workflow
-***** Anton's headphones flow -> search -> reddit -> / V y -> yy -> slack 
-***** yt !!!!!
-***** hl in jenkins moves horizontal
-***** <<>> tab comparesn hubspot ex.
-***** ge O
-**** Others
-***** Gmail
-***** Github?
-***** fb?
-***** spacemacs?
-** What now?
-**** Start off work 
-**** Touch Type, the process will teach you otherwise
-**** Looks intimidating, but you can do it 
-**** 'learn vim' vscode extention
+* This lecture can change the way you use a pc
+* Vim
+** Vi a simple text editor
+*** Once upon a time, <old pc photo>, they had to have mods
+** People still actually use it
+*** Photo of advance vim devenv
+*** Vim reddit vs spotify reddit
+*** VSCode Vim
+*** IdeaVIM has 10M downloads
+** Modal editing, thats the shit
+* This is Vim
+** <<< Markdown file >>>
+** The cool stuff
+*** gd gu gU <ip
+*** =ip to format paragraph
+*** Fast paced workflow to show off
+**** surrund with '
+**** zz-ing!!! /func_name zt
+*** jk in vscode explorer panel
+** Extra ?
+*** Marks? Registers? Macros?
+* Ok but why? 
+** no, its not about speed, its focusing on the important stuff
+*** From mind to code, let Vim do the typing
+** Vim everywhere
+*** Vimium
+**** Google search workflow
+**** Anton's headphones flow -> search -> reddit -> / V y -> yy -> slack 
+**** yt !!!!!
+**** hl in jenkins moves horizontal
+**** <<>> tab comparesn hubspot ex.
+**** ge O
+*** Others
+**** Gmail
+**** Github?
+**** fb?
+**** spacemacs?
+* What now?
+*** Start off work 
+*** Touch Type, the process will teach you otherwise
+*** Looks intimidating, but you can do it 
+*** 'learn vim' vscode extention

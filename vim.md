@@ -6,7 +6,7 @@
      ← h j k l →
          ↓
 
-# Words vs WORDS - w b 
+# Words vs WORDS - w b (Maybe no WORDS)
 words words words words words words words
 WORDS.WORDS WORDS.WORDS.WORDS WORDS.WORDS 
 
